@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geegne</h1>
-<h3 align="center">A passionate Full-stack Developer who's passionate with anything web related.</h3>
+<h3 align="center">I'm a Full-stack Developer who's passionate about anything web related.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geegne&label=Profile%20views&color=0e75b6&style=flat" alt="geegne" /> </p>
 
